@@ -16,9 +16,9 @@ A sleek and responsive **Portfolio Website** built with **HTML, CSS, and JavaScr
 - **Clean & Well-Structured Code** – Easy to customize and maintain.
 
 ## 📸 Screenshots
-![Home Section](https://your-image-url.com/home.jpg) *(Replace with actual screenshot URL)*
-![Portfolio Section](https://your-image-url.com/portfolio.jpg) *(Replace with actual screenshot URL)*
-![Contact Section](https://your-image-url.com/contact.jpg) *(Replace with actual screenshot URL)*
+![Home Section](images/Devloper-portfolio.png)
+![Portfolio Section](images/img2.png)
+![Contact Section](images/img3.png)
 
 ## 💡 Purpose
 This portfolio serves as a **professional online presence** to highlight your skills and achievements, connect with clients or recruiters, and showcase your best work.
@@ -35,7 +35,7 @@ This portfolio serves as a **professional online presence** to highlight your sk
 3. Open `index.html` in your browser or use a live server extension.
 
 ## 🌍 Live Demo
-Check out the live version here: [Portfolio Live Demo](https://your-live-demo-url.com) *(Replace with actual live demo URL)*
+Check out the live version here: [Portfolio Live Demo](https://lechehebdjaafar.github.io/Devloper-Portfolio/) *(Replace with actual live demo URL)*
 
 ## 📄 License
 This project is licensed under the **MIT License** – feel free to modify and distribute it.
